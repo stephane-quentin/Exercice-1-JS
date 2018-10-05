@@ -1,3 +1,2 @@
-var a;
-a="La Manu"
+var a = "La Manu";
 alert("Bienvenue à " + a);
